@@ -1,3 +1,13 @@
+# 自定义文件
+*.csv
+*.xls
+
+# IDE设置、生成目录
+Release/
+Debug/
+x64/
+.vs/
+
 # Prerequisites
 *.d
 
